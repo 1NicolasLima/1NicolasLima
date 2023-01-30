@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou o @1NicolasLima
-- 👀 Estou interessado em aprender Desenvolvimento Front-End
+- 👀 Tenho o objetivo de virar Desenvolvedor Full Stack
 - 🌱 Estudando JavaScript e React.
 - 💞️ Entre em contato comigo no e-mail: nicolasaraujo845@gmail.com
 - 📫 Ele/dele
